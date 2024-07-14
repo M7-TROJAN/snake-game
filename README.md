@@ -88,3 +88,11 @@ The `render.py` file handles the rendering of game objects and the user interfac
 ## Conclusion
 
 This Snake game project demonstrates basic game development principles using Python and Pygame. Feel free to explore the code, make modifications, and add new features to enhance the game.
+
+## Author
+
+- Mahmoud Mohamed
+- Email: mahmoud.abdalaziz@outlook.com
+- LinkedIn: [Mahmoud Mohamed Abdalaziz](https://www.linkedin.com/in/mahmoud-mohamed-abd/)
+
+Happy coding! 🚀
